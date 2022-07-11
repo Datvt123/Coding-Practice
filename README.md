@@ -36,6 +36,7 @@ The others was coded by using Python
 |6|Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|[Solution](https://github.com/Datvt123/Coding-Practice/blob/main/HackerRank%20Solution/SQL/Employee%20Names.sql)|10|
 |7|Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)|[Solution](https://github.com/Datvt123/Coding-Practice/blob/main/HackerRank%20Solution/SQL/Employee%20Salaries.sql)|10|
 |8|Advanced Join|[Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)|[Solution](https://github.com/Datvt123/Coding-Practice/blob/main/HackerRank%20Solution/SQL/Interviews.sql)|50|
+|8|Advanced Join|[Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)|[Solution]()|40|
 
 ## Databases
 | No. | Subdomain | Challenge | Solution | Point|
